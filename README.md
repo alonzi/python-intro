@@ -42,8 +42,25 @@ Today we are working on python. However there is some knowledge of programming t
 * version 3.0 2008 (not widely adopted until a few years ago)
 
 # Let's Get to It (hopefully everyone is done installing)
-* open spyder
+* open spyder [it looks like this](spyder.png)
+  * text editor
+  * variable explorer
+  * console
+  * control icons
+  
+## Strings
+* A string is a 'string' of characters
+  * 'apple'  # letters
+  * 'blue42' # letters and numbers
+  * 'i am the very model of a modern major general' # spaces are fine
+  * '7 hills' # it can even start with a number
+  
+## Comments
+We also introduce comments here, the computer will ignore everything after the '#' symbol. There are other forms but we'll see them later on.
 
+## Variables
+You can "save" things as variables. For those curious as to what's going on under the hood...in python a variable is actually just a pointer to the location in memory where the object lives.
+* 
 
 
 
