@@ -40,6 +40,8 @@ Today we are working on python. However there is some knowledge of programming t
 * version 1.0 1994
 * version 2.0 2000
 * version 3.0 2008 (not widely adopted until a few years ago)
+* [logo](https://www.google.com/search?q=python+logo&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi9xN-J8aHdAhVBMt8KHT-WDEEQ_AUICigB&biw=1440&bih=697)
+* [anaconda logo](https://www.google.com/search?q=anaconda+logo&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwin88Gf8aHdAhUhiOAKHeGLBHYQ_AUICigB&biw=1440&bih=697)
 
 # Let's Get to It (hopefully everyone is done installing)
 * open spyder [it looks like this](spyder.png)
