@@ -73,12 +73,23 @@ You can "save" things as variables. For those curious as to what's going on unde
 ## Functions
 * print(a) # this function will show us what a points to
 * we know that print is a function because there is no space between print and the "("
+* format of a function: name(arguments)
+* we say we "call" a function
 * *this is super important* in python the way to spot a function is no space before a "(" and a letter or number
   * [python built-in functions](https://docs.python.org/3/library/functions.html)
   * print(...)
   * type(...)
   * pow(...)
   * in an equation you may see 5*(2+3), you won't seet 5(2+3) (try it and see what happens)
+  
+## Indexing
+* for objects with an order you can access individual elements
+* [indexing](indexing.png)
+* you can also pull out slices
+  * syntax [X:Y]
+    * starting at X
+    * upto but not including Y
+
 
 
 
