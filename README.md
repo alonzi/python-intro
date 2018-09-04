@@ -1,6 +1,9 @@
 # python-intro
 uva library workshop on introduction to python
 
+## Who am I?
+* [Senior Research Data Scientist with the Data Science Institute and UVA Library](https://dsi.virginia.edu/people/peter-alonzi)
+
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
@@ -11,4 +14,10 @@ uva library workshop on introduction to python
 ## Getting Python
 * [Windows](https://www.anaconda.com/download/#windows)
 * [Mac](https://www.anaconda.com/download/#macos)
+
+* terminology time
+  * programming langugage vs software distribution
+  * python2 vs python3
+  
+  
   
