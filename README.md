@@ -90,6 +90,38 @@ You can "save" things as variables. For those curious as to what's going on unde
     * starting at X
     * upto but not including Y
 
+## Lists
+* represented like functions but with [...]
+* there is an order to the items
+* the items can be of any type
+
+## Dictionary
+* represented like lits but with {...}
+* there is no order to items
+* items contain two pieces: a key and a value represented key:value and the key must be a string
+
+## loops - used when you want to repeat code
+* for loop
+  * for X in Y: << code >>
+    * X is a new variable created on the spot
+    * Y is some preexisting iterable
+    * << code >> is a block of code you want to repeat
+    * eg: for x in range(10): print(x)
+
+* while loop
+  * while Z: << code >>
+    * Z is a boolean
+    * << code >> is a block of code you want to repeat
+    * eg: while i<10: print i; i+=1
+
+## if statements
+* example
+  * if X: << code A >>
+  * else: << code B >>
+    * X is a boolean
+    * << code A >> is some code
+    * << code B >> is some code, could be the same
+    
 
 
 # Import
