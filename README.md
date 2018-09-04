@@ -60,7 +60,25 @@ We also introduce comments here, the computer will ignore everything after the '
 
 ## Variables
 You can "save" things as variables. For those curious as to what's going on under the hood...in python a variable is actually just a pointer to the location in memory where the object lives.
-* 
+* a = 'apple'
+  * a is the variable
+  * = is the assignment operator
+  * 'apple' (a string) is the object assigned to a
+  
+* *Important Note*: the assignment operator is not like an equals sign
+  * a=5
+  * a=7
+    * totally works, a was just reassigned to point to 7
+    
+## Functions
+* print(a) # this function will show us what a points to
+* we know that print is a function because there is no space between print and the "("
+* *this is super important* in python the way to spot a function is no space before a "(" and a letter or number
+  * [python built-in functions](https://docs.python.org/3/library/functions.html)
+  * print(...)
+  * type(...)
+  * pow(...)
+  * in an equation you may see 5*(2+3), you won't seet 5(2+3) (try it and see what happens)
 
 
 
