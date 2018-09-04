@@ -92,6 +92,31 @@ You can "save" things as variables. For those curious as to what's going on unde
 
 
 
+# Import
+* *This is the most important topic*
+* The import command let's you bring in code from another file and use it
+* one example: random number generation
+  * import numpy
+  * numpy.random.randn()
+* There are two steps [info on conda](https://conda.io/docs/user-guide/tasks/manage-pkgs.html) [info on pip](https://pip.pypa.io/en/stable/user_guide/)
+  1. install the module, eg: shell]$ conda install numpy
+  2. python>>> import numpy
+
+# Scripting vs Programming
+It's a matter of modularity. Programs are designed to be modular and work with other programs. Scripts are designed to be single use.
+
+
+
+# Ways to Practice
+* Beginning
+  * Flip a coin (~10 lines)
+  * Play rock, paper, scissors  (~25 lines)
+* Intermediate
+  * Guess a secret number between 1 and 10. With hints. (~20 lines)
+  * Dice rolling program
+* Expert
+  * Play blackjack
+  * Play roulette
 
 
 
