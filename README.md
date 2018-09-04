@@ -142,6 +142,9 @@ It's a matter of modularity. Programs are designed to be modular and work with o
 
 
 # Ways to Practice
+1. Write some code
+2. Ask a friend to review it
+
 * Beginning
   * Flip a coin (~10 lines)
   * Play rock, paper, scissors  (~25 lines)
