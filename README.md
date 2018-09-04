@@ -12,7 +12,7 @@ uva library workshop on introduction to python
   * Introduction to Python (Erich Purpur)	Wednesday, 9/26	10:00 – 11:30	Brown 133
   * Introduction to Git/GitHub (Pete Alonzi)	Tuesday, 10/2	14:00 – 16:00	Brown 133
   
-## Getting Python
+## Getting Python (this will take some time)
 * [Windows](https://www.anaconda.com/download/#windows)
 * [Mac](https://www.anaconda.com/download/#macos)
 
@@ -20,5 +20,18 @@ uva library workshop on introduction to python
   * programming langugage vs software distribution
   * python2 vs python3
   
-  
-  
+# Goals for Today
+1. Get python running
+2. Get comfortable with python
+3. Learn how to look up help
+
+## Outline
+1. Strings and Functions
+2. Data types
+3. Loops
+4. Logic
+5. How to import (aka the most important part)
+
+### A quick note
+Today we are working on python. However there is some knowledge of programming that is required. Don't worry if you don't know it, please ask questions. I will do my best to answer them. And I will also do my best to indicate when something is a python specific detail and when it is a programming in general item.
+
