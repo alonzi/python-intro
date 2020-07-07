@@ -1,6 +1,5 @@
 # python-intro
 uva library workshop on introduction to python
-
 ## Who am I?
 * [Data Scientist with the Data Science Institute](https://dsi.virginia.edu/people/peter-alonzi)
 * I like to be interrupted with questions! Please jump right in.
