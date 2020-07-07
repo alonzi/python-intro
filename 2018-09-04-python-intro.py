@@ -17,20 +17,20 @@ Created on Tue Sep  4 14:25:53 2018
 #print(fruit[3])
 
 
-fruits = ['apple','banana','cherry']
+#fruits = ['apple','banana','cherry']
 #print(fruits[0])
 
 #test = \
  # ['apple','banana','dog']
-  
+
   # add float, int bool to notes
-  
+
 
 #for x in range(10):
 # comment
 #    print(x)
 #    print(x*10)
-    
+
 #print('done')
 
 
@@ -55,4 +55,3 @@ fruits = ['apple','banana','cherry']
 
 import numpy
 print(numpy.random.randn())
-
