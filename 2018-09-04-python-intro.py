@@ -55,3 +55,6 @@ Created on Tue Sep  4 14:25:53 2018
 
 import numpy
 print(numpy.random.randn())
+
+
+#this is me developing this code
